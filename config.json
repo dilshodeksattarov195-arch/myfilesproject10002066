@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configsave",
+        "uuid": 14604554,
+        "checksum": "ns94av"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
